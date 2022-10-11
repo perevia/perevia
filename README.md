@@ -1,8 +1,8 @@
-- 👋 Hi, I’m PereVia
-- 👀 I’m interested in Art and Tech
+- 👋 Hi, I’m Pere Via Parera
+- 👀 I’m looking to learn about Art and Tech
 - 🌱 I’m currently learning SwiftUI and Python
-- 💞️ I’m looking to collaborate on diferent project that can help today's artist to work directly with they creations
-- 📫 How to reach me ... it's beyond the 2000, you can find a link somewhere
+- 💞️ I’m looking to collaborate on Python projects for Maya Tools and create new iOS apps for Animators
+- 📫 I have a website...
 
 <!---
 perevia/perevia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
