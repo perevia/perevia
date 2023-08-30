@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pere Via Parera
 - 👀 I’m looking to learn about Art and Tech
-- 🌱 I’m currently learning SwiftUI and Python
+- 🌱 I’m currently learning SwiftUI and Python (battling HTML,PHP and JS every day)
 - 💞️ I’m looking to collaborate on Python projects for Maya Tools and create new iOS apps for Animators
 - 📫 I have a website...
 
